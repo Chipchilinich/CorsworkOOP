@@ -16,7 +16,7 @@
 
 1. Клонируйте репозиторий:
 ```
-git clone https://github.com/IvanRas/coursework_2
+git clone https://github.com/Chipchilinich/CorsworkOOP.git
 ```
 2. Установите зависимости:
 ```
